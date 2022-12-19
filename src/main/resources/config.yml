@@ -1,0 +1,7 @@
+teleport:
+  delay: 5
+message:
+  teleport-in: "&7Vous allez vous téléportez dans &8%time% secondes."
+  teleport-succes: "&7Téléportation effectué avec succès."
+  none: "&cCe warps n'a pas été trouvé."
+  list: "§7Warps: §8%list%"

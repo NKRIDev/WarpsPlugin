@@ -1,0 +1,7 @@
+name: Warps
+author: NKRI
+main: fr.nkri.warps.MWarp
+version: 1.0
+commands:
+  warp:
+  warps:
